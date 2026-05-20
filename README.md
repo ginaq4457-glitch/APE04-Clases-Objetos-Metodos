@@ -1,2 +1,2 @@
 # APE04-Clases-Objetos-Metodos
-El siguiente espacio  ha sido creado con el fin de colocar las actividades realizadas por parte del APE04
+Repositorio correspondiente a la práctica APE 04 de la asignatura Algoritmos y Lógica de Programación. El proyecto consiste en el desarrollo de un sistema básico de control de estudiantes y calificaciones utilizando Programación Orientada a Objetos en C++ y Java. El sistema permite registrar estudiantes, validar notas, calcular promedios y determinar si un estudiante aprueba o reprueba.
