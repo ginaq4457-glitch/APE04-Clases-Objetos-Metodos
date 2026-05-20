@@ -1,1 +1,1 @@
-Codigo en C++
+En la siguiente carpeta Codigo en C++ se plasmara la evidencia del codigo que se llevo a cabo en donde el mismo se encuentra documentado por medio de comentarios los cuales permiten al usuario entender la funcionalidad de cada linea de codigo
